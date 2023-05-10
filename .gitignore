@@ -6,7 +6,6 @@ test/tests.bundle.js
 .idea
 .lock
 lib
-es
 test-build
 .parcel-cache
 dist
