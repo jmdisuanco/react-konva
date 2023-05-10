@@ -7,5 +7,5 @@
  */
 'use strict';
 
-import 'konva';
+import 'konva/lib';
 export * from './ReactKonvaCore';
